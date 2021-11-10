@@ -14,3 +14,6 @@ Crie um banco de dados mysql com o nome de gnservice e insira as credenciais par
 <li>localhost:8080/cart</li>
 <p>Retorna carrinho de compras</p>
 
+<h2>Deploy Aws</h2>
+<p>A aplicação pode ser acessada no link:</p>
+<p>http://ec2-18-119-98-10.us-east-2.compute.amazonaws.com:8080/</p>
