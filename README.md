@@ -1,5 +1,5 @@
 # GnVendas
-Desafio técncico de um sistema de vendas.
+Desafio técncico de um sistema de vendas construido com o back-end Java/Spring e front-end utilizando Thymeleaf. Banco de Dados Mysql.
 
 <h2> Instruções para execução </h2>
 Crie um banco de dados mysql com o nome de gnservice e insira as credenciais para acesso ao banco no arquivo apllication.porperties.
